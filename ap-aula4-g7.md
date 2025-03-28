@@ -2,11 +2,13 @@
 
 ## Sistema de Reserva de Hotéis
 
-### Requisito Escolhido: RF4. O sistema deve enviar e-mails de confirmação de reserva.
+### Requisitos Elicitados
 
-#### **1. Descrição Detalhada do Requisito**
+Durante o processo de elicitação de requisitos, utilizamos diversas técnicas para garantir um entendimento completo das necessidades dos stakeholders. Através de entrevistas com clientes e equipe de atendimento, workshops colaborativos e análise de cenários de uso, refinamos os seguintes requisitos para o sistema:
 
-O sistema de reservas de hotéis deve enviar automaticamente um e-mail de confirmação para o hóspede assim que uma reserva for concluída com sucesso. O e-mail deve conter todas as informações relevantes da reserva, incluindo:
+#### **1. Envio de E-mails de Confirmação de Reserva (RF4)**
+
+O sistema deve enviar automaticamente um e-mail de confirmação para o hóspede assim que uma reserva for concluída com sucesso. O e-mail deve conter todas as informações relevantes da reserva, incluindo:
 
 - Nome do hóspede
 - Datas de check-in e check-out
@@ -15,9 +17,48 @@ O sistema de reservas de hotéis deve enviar automaticamente um e-mail de confir
 - Valor total da hospedagem e forma de pagamento
 - Políticas de cancelamento e contato do hotel
 
-O envio do e-mail deve ocorrer imediatamente após a confirmação da reserva. Em caso de falha no envio, o sistema deve tentar reenviar automaticamente até três vezes antes de registrar o erro e notificar a equipe responsável.
+Com base na análise de falhas em versões anteriores e benchmarking com concorrentes, estabelecemos um fluxo de tentativa de reenvio automático até três vezes em caso de erro. Caso todas as tentativas falhem, o sistema notificará a equipe de suporte para ação manual.
 
-#### **2. Identificação das Fontes dos Requisitos**
+##### **Questionário de Elicitação - RF4**
+- **Por quê?**: Por que é essencial enviar um e-mail de confirmação de reserva?
+- **O quê?**: O que o e-mail de confirmação deve conter para ser útil ao hóspede?
+- **Como?**: Como o sistema deve processar e garantir o envio correto dos e-mails?
+- **Onde?**: Onde o hóspede pode acessar essa confirmação?
+- **Quando?**: Quando o sistema deve reenviar a confirmação em caso de falha?
+- **Quem?**: Quem deve ser notificado caso ocorra um erro no envio?
+
+#### **2. Notificações de Lembrete de Check-in (Novo Requisito - RF5)**
+
+Com base nas entrevistas realizadas com hóspedes frequentes e na observação do comportamento dos usuários, identificamos a necessidade de um lembrete automático antes da data do check-in. O sistema deve:
+
+- Enviar uma notificação por e-mail e/ou SMS 24 horas antes do check-in.
+- Incluir um link para informações adicionais, como horário de entrada e opções de early check-in.
+- Permitir que o hóspede confirme a chegada prevista para melhorar a organização da recepção.
+
+##### **Questionário de Elicitação - RF5**
+- **Por quê?**: Por que um lembrete de check-in é útil para o hóspede e para o hotel?
+- **O quê?**: O que a notificação deve conter para ser informativa e útil?
+- **Como?**: Como o sistema deve determinar quais hóspedes devem receber o lembrete?
+- **Onde?**: Onde essa notificação será exibida para o hóspede?
+- **Quando?**: Quando a notificação deve ser enviada para ter maior eficácia?
+- **Quem?**: Quem deve receber essa notificação e quem deve ser alertado sobre confirmações de chegada?
+
+#### **3. Opção de Reenvio de Confirmação pelo Hóspede (Novo Requisito - RF6)**
+
+Com base em questionários e análise de suporte técnico, identificamos que muitos hóspedes perdem o e-mail de confirmação ou inserem um endereço incorreto. Para mitigar esse problema, o sistema deve:
+
+- Permitir que o hóspede solicite o reenvio da confirmação de reserva diretamente pelo site ou aplicativo.
+- Verificar e permitir a alteração do e-mail cadastrado antes do reenvio.
+- Notificar a equipe de suporte caso a solicitação ocorra mais de uma vez para o mesmo hóspede.
+
+##### **Questionário de Elicitação - RF6**
+- **Por quê?**: Por que é importante permitir o reenvio da confirmação de reserva?
+- **O quê?**: O que deve ser validado antes de reenviar a confirmação?
+- **Como?**: Como o hóspede pode solicitar um novo envio de forma intuitiva?
+- **Onde?**: Onde o hóspede pode acessar essa funcionalidade no site ou aplicativo?
+- **Quando?**: Quando o sistema deve permitir essa solicitação e há um limite de tentativas?
+- **Quem?**: Quem deve ser notificado caso um hóspede faça múltiplas solicitações de reenvio?
+#### **4. Identificação das Fontes dos Requisitos**
 
 As principais fontes de requisitos incluem:
 
@@ -37,7 +78,7 @@ Outras fontes de requisitos incluem:
 - Pesquisa bibliográfica;
 - Normas como ISO/IEC 25010.
 
-#### **3. Fluxos de Execução**
+#### **5. Fluxos de Execução**
 
 ##### **Fluxo Principal**
 
@@ -54,13 +95,13 @@ Outras fontes de requisitos incluem:
 2. Se todas as tentativas falharem, o sistema gera um alerta para a equipe de suporte.
 3. A equipe de suporte pode reenviar manualmente ou entrar em contato com o hóspede para confirmar a reserva.
 
-#### **4. Perfis de Usuários com Permissão de Execução**
+#### **6. Perfis de Usuários com Permissão de Execução**
 
 - **Sistema Automatizado**: Responsável pelo envio dos e-mails de confirmação sem necessidade de intervenção manual.
 - **Equipe de Suporte/Atendimento**: Pode acessar registros de e-mails enviados, reenviar confirmações manualmente e corrigir eventuais problemas.
 - **Hóspede**: Apenas recebe o e-mail de confirmação, sem acesso direto ao sistema de envio.
 
-#### **5. Elicitação de Requisitos**
+#### **7. Elicitação de Requisitos**
 
 A elicitação de requisitos envolve o levantamento detalhado das necessidades do sistema. Algumas técnicas utilizadas incluem:
 
