@@ -2,35 +2,35 @@
 
 ## JAD (Joint Application Development)
 
-JAD é uma metodologia que envolve a participação direta do cliente e usuários finais durante o processo de desenvolvimento de aplicações. Através de workshops e sessões estruturadas, os participantes colaboram para definir requisitos do sistema de forma conjunta e eficiente[^2][^7].
+JAD é uma metodologia que envolve a participação direta do cliente e usuários finais durante o processo de desenvolvimento de aplicações. Através de workshops e sessões estruturadas, os participantes colaboram para definir requisitos do sistema de forma conjunta e eficiente.
 
 **Cenários aplicáveis:**
 
-- Projetos novos ou melhorias de produtos existentes[^2]
-- Projetos envolvendo grupos de usuários ou responsabilidades interdepartamentais[^2]
-- Projetos considerados críticos para o sucesso da organização[^2]
-- Organizações com histórico problemático entre produtos e usuários finais[^2]
-- Quando é necessário consolidar reuniões, e-mails e telefonemas em sessões estruturadas[^4]
+- Projetos novos ou melhorias de produtos existentes
+- Projetos envolvendo grupos de usuários ou responsabilidades interdepartamentais
+- Projetos considerados críticos para o sucesso da organização
+- Organizações com histórico problemático entre produtos e usuários finais
+- Quando é necessário consolidar reuniões, e-mails e telefonemas em sessões estruturadas
 
 **Vantagens:**
 
-- Melhora o tempo de entrega devido à abordagem coordenada[^3]
-- Redução de custos por meio de análise acelerada dos requisitos[^3]
-- Simplifica o processo identificando participantes, usuários e problemas rapidamente[^4]
-- Clarifica os requisitos de forma unânime[^4]
-- Satisfaz o cliente por envolvê-lo no desenvolvimento do sistema[^4][^8]
-- Elimina elementos de risco através do trabalho em equipe[^8]
+- Melhora o tempo de entrega devido à abordagem coordenada
+- Redução de custos por meio de análise acelerada dos requisitos
+- Simplifica o processo identificando participantes, usuários e problemas rapidamente
+- Clarifica os requisitos de forma unânime
+- Satisfaz o cliente por envolvê-lo no desenvolvimento do sistema
+- Elimina elementos de risco através do trabalho em equipe
 
 **Desvantagens:**
 
-- Pode ser muito caro se o tamanho do projeto não justificar o processo[^3]
-- Requer compromisso de tempo dos participantes[^3]
-- Necessita de suporte adequado da gerência executiva[^3]
-- Pode ser contraproducente sem participação adequada[^3]
+- Pode ser muito caro se o tamanho do projeto não justificar o processo
+- Requer compromisso de tempo dos participantes
+- Necessita de suporte adequado da gerência executiva
+- Pode ser contraproducente sem participação adequada
 
 ## Prototipação
 
-Técnica que consiste em criar versões iniciais do sistema baseadas nos resultados de coletas preliminares de requisitos para mostrar aos clientes uma solução viável. O cliente pode então fornecer mais requisitos ou refinar os existentes[^4].
+Técnica que consiste em criar versões iniciais do sistema baseadas nos resultados de coletas preliminares de requisitos para mostrar aos clientes uma solução viável. O cliente pode então fornecer mais requisitos ou refinar os existentes.
 
 **Cenários aplicáveis:**
 
@@ -38,7 +38,7 @@ Técnica que consiste em criar versões iniciais do sistema baseadas nos resulta
 - Para sistemas com interfaces de usuário complexas
 - Quando é essencial obter feedback do cliente nas fases iniciais
 - Para validar conceitos antes do desenvolvimento completo
-- Quando a documentação de um sistema existente está ausente[^4]
+- Quando a documentação de um sistema existente está ausente
 
 **Vantagens:**
 
@@ -46,7 +46,7 @@ Técnica que consiste em criar versões iniciais do sistema baseadas nos resulta
 - Facilita feedback do cliente no início do processo
 - Ajuda a identificar requisitos ausentes ou pouco claros
 - Reduz o risco de desenvolver a solução errada
-- Ciclo contínuo de refinamento até atender às necessidades do cliente[^4]
+- Ciclo contínuo de refinamento até atender às necessidades do cliente
 
 **Desvantagens:**
 
