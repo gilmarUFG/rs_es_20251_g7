@@ -1,0 +1,68 @@
+@startuml
+
+class RelatorioProdutividade {
+    -id : int
+    -data : Date
+    -tempoTarefas : float
+    -tempoFoco : float
+    -tempoPausas : float
+    -interacoes : int
+}
+
+class Equipe {
+    -id : int
+    -nome : String
+    -membros : List<Membro>
+}
+
+class Reuniao {
+    -id : int
+    -data : Date
+    -horaInicio : DateTime
+    -horaFim : DateTime
+    -pontosDiscutidos : String
+}
+
+class ResumoReuniao {
+    -id : int
+    -resumo : String
+    -dataGeracao : DateTime
+}
+
+class Membro {
+    -id : int
+    -nome : String
+    -disponibilidade : String
+    -produtividadeHistorica : String
+}
+
+class RecomendacaoTarefas {
+    -id : int
+    -data : Date
+    -tarefasPrioritarias : List<String>
+}
+
+class AssistenteBrainstorming {
+    -id : int
+    -palavrasChave : List<String>
+    -sugestoes : List<String>
+}
+
+class IA {
+    -id : int
+    -modelo : String
+    -dadosTreinamento : String
+}
+
+RelatorioProdutividade --> Equipe : pertence_a
+Reuniao --> ResumoReuniao : gera
+Membro --> Reuniao : participa
+Membro --> RecomendacaoTarefas : recebe
+AssistenteBrainstorming --> Membro : interage_com
+IA --> RelatorioProdutividade : gera
+IA --> Reuniao : sugere_horarios
+IA --> ResumoReuniao : gera_resumo
+IA --> RecomendacaoTarefas : sugere_tarefas
+IA --> AssistenteBrainstorming : sugere_ideias
+
+@enduml
