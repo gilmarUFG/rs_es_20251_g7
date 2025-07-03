@@ -1,0 +1,55 @@
+Commit;Author;Date;Message
+d3237401b221e6fb4397811af4a66ca47b1c9450;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Mon Jun 30 11:52:01 2025 -0300;Create Trabalho FInal - Requisitos.pdf
+04abba98cecc2af71a5c57eb11b495c58b5493c9 Merge: c36c3a3 62bb712;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Mon Jun 30 10:39:17 2025 -0300;Merge branch 'estudante'
+62bb712288f95147e321bad2c53f37ec4657b444;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Mon Jun 30 10:10:08 2025 -0300;Rename readme_folder_tg.md to README.md
+c36c3a3f108f6fd0519cbc1c7d904406c5ae2ca6;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Sun Jun 29 13:15:25 2025 -0300;update repository
+e3a2cba57db4b1581fe635776702b4b2215f6337;Hugo Veiga Jardim <106411474+hugojardim@users.noreply.github.com>;Thu Jun 5 19:28:48 2025 -0300;Update readme_folder_tg.md
+82ef0ff302d6ee1fc3f203980ed8d39166d98952;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Thu Jun 5 15:27:52 2025 -0300;Update readme_folder_tg.md
+084bf484a6d2de82f4c12910a3f212e31d7490a6;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Tue Jun 3 08:15:48 2025 -0300;Add HU08
+dc06bc49c168f894c2794b8839174138818d730b;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Mon Jun 2 18:26:58 2025 -0300;Add files via upload
+6830a32fce5bc3d5457711b47aba2794a628f7ea;Hugo Veiga Jardim <106411474+hugojardim@users.noreply.github.com>;Mon Jun 2 14:03:36 2025 -0300;Add files via upload
+eaba3726b2843dea8948f34fa8c05b3f3b4bbb5e;Guilherme Dutra <131313588+guiilhermegdm@users.noreply.github.com>;Mon Jun 2 11:09:51 2025 -0300;Add HU07
+c8e6556550297607b55066389298d7cf00a86138;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Mon Jun 2 10:40:52 2025 -0300;Add HU06 História de usuário referente ao RF06
+13d7efe7cec4761c1c9b98553fceb365dd0a822e;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Mon Jun 2 10:39:23 2025 -0300;Add diagrama de classes da 2ª iteração
+e0eab9b037588a75a0422d75d7b6b2e93a9f3b2f;mikaeljunior.dev <mikaeljunior.dev@gmail.com>;Thu May 15 17:51:33 2025 -0300;⬆ feature: escrita da hu05
+86cee54d5fbaaea81366395087b3f47f6981b14d;Guilherme Dutra <131313588+guiilhermegdm@users.noreply.github.com>;Thu May 15 14:46:37 2025 -0300;Rename RF05_Assistente_Virtual_Brainstorming.md to HU05_Assistente_Virtual_Brainstorming.md
+ef6ab0ca28345216a26092d20e1145285c2361fd;Guilherme Dutra <131313588+guiilhermegdm@users.noreply.github.com>;Thu May 15 14:46:17 2025 -0300;Update and rename RF04_Recomendacao_Tarefas.md to HU04_Recomendacao_Tarefas.md
+f612d70044117881950ff1cc14fa0907a00a5a3a;Guilherme Dutra <131313588+guiilhermegdm@users.noreply.github.com>;Thu May 15 14:46:03 2025 -0300;Rename RF02_Sugestao_Horarios_Reunioes.md to HU02_Sugestao_Horarios_Reunioes.md
+9de39a5fddaff9477507ac1311c5d869fd575601;Guilherme Dutra <131313588+guiilhermegdm@users.noreply.github.com>;Thu May 15 14:45:46 2025 -0300;Rename RF01_Relatorio_Produtividade.md to HU01_Relatorio_Produtividade.md
+350f0fe62308f96a575098626597497cd2c762d0;Guilherme Dutra <131313588+guiilhermegdm@users.noreply.github.com>;Thu May 15 14:45:22 2025 -0300;Update and rename HU03_Resumo_Automatico_Reunioes.md
+17c18d01a12d1f4adc150ff367f7ae6ee1e747e7;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Thu May 15 10:23:38 2025 -0300;Create diagrama_classes_1iteracao.puml  Diagrama de classes para representar as classes de análise, utilizando a ferramenta PlantUML
+297d48c4590150392e5e33f1d41b1e667afd8d6b;Hugo Veiga Jardim <106411474+hugojardim@users.noreply.github.com>;Thu May 15 10:13:30 2025 -0300;Add files via upload
+9aac3314beb21bd804d855f04bea6751952599a8;SamuelJEAlves <samuelalvesevangelista@gmail.com>;Thu May 15 10:12:16 2025 -0300;HU-1 e HU-2
+2ae6f06dd0e5980c0b01853463b1dcbdaf8a87e4;SamuelJEAlves <samuelalvesevangelista@gmail.com>;Thu May 15 09:51:01 2025 -0300;setup das HUs vazias
+f0f257950d91f510b8eb142c48b78c33fd6023dd;SamuelJEAlves <samuelalvesevangelista@gmail.com>;Thu May 15 09:47:15 2025 -0300;organização do repositorio
+55a25382faac6b510016d475f875a4cf136d3020;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Thu May 15 09:41:46 2025 -0300;Create RF01_Relatorio_Produtividade.md
+15a61668f2092da06ceb3f75704e31f6f18e7dfd;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Fri May 9 08:58:07 2025 -0300;Create ap_aula9_g7.md Atividade da aula 9: Matriz de rastreabilidade dos 10 requisitos definidos para o trabalho.
+372307be64b6db7017007ebf5cf9b6b8be00f7a9;Hugo Veiga Jardim <106411474+hugojardim@users.noreply.github.com>;Mon May 5 14:03:08 2025 -0300;Update ae_aula07_HugoMoreno.md
+37b4c7c6ff304d8fe6631c3626912aae8e39b37d;Hugo Veiga Jardim <106411474+hugojardim@users.noreply.github.com>;Mon May 5 14:01:57 2025 -0300;Add files via upload
+43e27903a5b361139096086b856a9e1ef8fd3e75;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Mon May 5 10:48:59 2025 -0600;Add definicao do trabalho final Arquivo markdown com os 10 requisitos definidos e divididos por iteração
+9489b1638fb3caedaa6d4dc00bd32e2d7e0815c3;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Mon May 5 09:03:43 2025 -0600;Add atividade aula 7
+15ef7043d4c75b5dff5639e6ae809812ce9658a7;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Sun May 4 21:08:22 2025 -0300;add atividade individual
+0e14b76e64879781dc61c86e1fda94424153b98e;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Sun May 4 21:08:01 2025 -0300;Delete atividades_supervisionadas/ae_aula07_samuel.md
+d94da4e7299d72c47b479a171ac20bab1b099812;Guilherme Dutra <131313588+guiilhermegdm@users.noreply.github.com>;Sun May 4 16:32:24 2025 -0300;Create ae_aula07_GuilhermeGoncalves.md
+2dfa39fd6f72ca1e88574a31d66bb5a3a3c4892a;Guilherme Dutra <131313588+guiilhermegdm@users.noreply.github.com>;Sun May 4 16:29:27 2025 -0300;Rename ae_aula07<_samuel_>.md to ae_aula07_samuel.md
+7124b7b56e95ea33d16a097773047113da3938a3;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Sun May 4 15:39:44 2025 -0300;Create ae_aula07<_samuel_>.md
+083ca83d150f6832ddb34c8a097efa6986493200;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Sun May 4 15:39:08 2025 -0300;Delete atividades_individuais directory
+9e1d110acc7c7f4f09b27f7b042be14c9e3457c5;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Sun May 4 15:32:48 2025 -0300;Create ae_aula07<_samuel_>.md
+5b7635c057a9aaf184d96e44ec2e0f88f604c040;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Sun May 4 15:18:10 2025 -0300;as5 infografico tecnicas de especificação
+e92d4b95c25f5eb169dc43b5c3c0853de70b042f;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Sat Apr 26 15:36:57 2025 -0300;update repository
+6f57160eef662e4902290e8ff9f8aaebcfe4f642;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Sat Apr 19 12:51:19 2025 -0300;Delete as2_rs_grupo7.pdf
+1bc7649671c8bcd2689138effb551539cb5d658d;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Fri Apr 18 17:14:26 2025 -0300;update repository
+fcf2cddd8c4274635d63a8e4291e823966b1ced6 Merge: a19fb92 faf8877;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Thu Apr 17 19:08:12 2025 -0300;Merge branch 'main' into estudante
+faf88776fde229582f4e5f97a55b21b114351c47;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Thu Apr 17 19:04:11 2025 -0300;update repository
+a19fb92029c6702defb2001a487c78e65bd26f99;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Sun Apr 13 20:09:16 2025 -0300;add as4_rs_grupo7.pdf
+f3f1232cb7777b5a2ddbe50451a77be4851e3487;Mikael Borges de Oliveira e Silva Junior <114350039+kamamijr@users.noreply.github.com>;Thu Apr 10 21:40:58 2025 -0300;deduplicidade e prioridade de requisitos
+cb0aa1974ed134a315d92f32ecd61b819cac333b;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Wed Apr 9 18:03:03 2025 -0300;Add files via upload
+40dcaa29aa2ff3994e84b073e05af3309555118a Merge: 05c8652 a43d3be;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Sat Mar 29 11:51:25 2025 -0300;Merge branch 'main' into estudante
+05c8652f046784671547ea1e06e091f217d1a1e0;Mikael Borges de Oliveira e Silva Junior <114350039+kamamijr@users.noreply.github.com>;Thu Mar 27 21:31:51 2025 -0300;Update ap-aula4-g7.md update tarefa 27/03
+2e9bd94654958dd3696bb41e9d5aa0d974e0a048;Mikael Borges de Oliveira e Silva Junior <114350039+kamamijr@users.noreply.github.com>;Thu Mar 27 21:16:59 2025 -0300;Create ap-aula4-g7.md atividade pratica 27/03
+a43d3be8bd1587893627910ebc292a5a32cc7a01 Merge: 363a0db e2310a0;Gilmar Ferreira Arantes <130784207+gilmarUFG@users.noreply.github.com>;Fri Mar 21 18:58:54 2025 -0300;Merge pull request #1 from gilmarUFG/estudante add atividade da aula 3
+e2310a07691f5932b043802d212a8bb63cf21db7;Vitor Martins Castanheira <108744054+cmVitor@users.noreply.github.com>;Thu Mar 20 21:16:21 2025 -0300;add atividade da aula 3 Atividade sobre especificação de um requisito funcional.
+363a0db10cb06e360cda8f41ae24888626ab7b54;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Thu Mar 13 21:39:12 2025 -0300;Update Atividade-Pratica-Aula-2.md
+a11c0d9d51b0c63989d56984d94b156ad52efb69;Samuel José Evangelista Alves <112004534+SamuelJEAlves@users.noreply.github.com>;Thu Mar 13 21:34:38 2025 -0300;Atividade Prática sobre RF, RNF e RN
+55abd0f979cf50e6c139b4fca45dace0c84e4283;Gilmar Ferreira Arantes <gilmar.arantes@ufg.br>;Fri Feb 28 17:06:04 2025 -0300;Update README.md file.
+9490a5fd42a445e940391a821595a3fcce120585;Gilmar Ferreira Arantes <130784207+gilmarUFG@users.noreply.github.com>;Fri Feb 28 14:17:39 2025 -0300;Initial commit
